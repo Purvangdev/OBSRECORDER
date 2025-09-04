@@ -18,3 +18,4 @@ A few things before you start
 
 1- Install the latest version of OBS studio from https://obsproject.com/
 2- Make sure you have the ADMIN rights in the computer you are using on 
+<img width="408" height="555" alt="image" src="https://github.com/user-attachments/assets/827ec498-3c80-4ce8-96ed-324d270fe6dc" />
